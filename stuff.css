@@ -1,9 +1,10 @@
 #header {
-  border: 10px solid black;
+  border: 10px solid darkgoldenrod;
   border-radius: 500px;
   text-align: center;
   margin-top: 20px;
   margin-left: 20px;
   margin-right: 20px;
   background-color: burlywood;
-  color: gra
+  color: black;
+}
