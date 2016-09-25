@@ -1,2 +1,5 @@
 #header {
-  border
+  border: 10px solid black;
+  border-radius: 500px;
+  text-align: center;
+  margin
